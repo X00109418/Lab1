@@ -1,0 +1,33 @@
+Articulate the concept of quality in software.
+
+
+It is critical for software to run smoothly and without error for success of a business and safety. All software should be created under the ISO standard. The ISO-19011 (Management System series of International Standards), outlines the importance of audits to manage an organizations quality process.
+A international standard for the evaluation of software quality, ISO/IEC 25010:2011, defines quality with an 8 point model:
+•	Functionality. 
+•	Performance.
+•	Compatibility.
+•	Reliability.
+•	Maintainability.
+•	Security.
+•	Portability.
+Usually the quality of software is measured by the amount of bugs or defects present in the software, or by measuring bugs and defects per thousand lines of code.[1] There are five different perspectives on software quality, conceived by Kitchenham, Plfeeger and Garvin:[2]
+•	Transecndental Perspective: This is what the aim of the program should be.
+•	User Perspective: This should meet the users needs.
+•	Manufacturing Perspective: Must follow Iso standards such as ISO 9001.
+•	Product Perspective: Measured by certain characteristics of the program.
+•	Final Perspective: Different perspectives may have different importance.
+According to Deming, "The difficulty of defining software quality ist to translate future needs of the user onto measurable characteristics".[3]
+The Consortium for IT Software Development (CISQ) have a 4 point quality model of "What's" to be achieved:
+•	Reliability.
+•	Efficiency.
+•	Security.
+•	Maintainability.
+
+In some ways, the standard of software quality is clear as an idea, but when it comes to implementation it can become unclear. It can be difficult to describe what quality means. This meaning may also vary form person to person, and company to company.
+David Garvin sums this up neatly and accurately saying that, "Quality is an unusually slipper concept, easy to vizualise and yet exasperatingly difficult to define." (David Garvin 1988).
+
+
+References:
+ [1] A. Sukoco, Fac. of Comput. Sci., Univ. Bandar Lampung, Indonesia, 978-1-4673-1459-6, 14-15 Aug 2012
+[2] D. A. Garvin, Managing Quality - the strategic and competitive edge. New York, NY: Free Press [u.a.], 1988
+[3] W. E. Deming, "Out of the crisis: quality, productivity and competitive position". Cambridge University Press, 1988.
